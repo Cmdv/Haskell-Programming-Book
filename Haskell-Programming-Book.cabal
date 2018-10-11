@@ -21,3 +21,4 @@ executable Haskell-Programming-Book
                      , time
                      , hspec
                      , QuickCheck
+                     , checkers
