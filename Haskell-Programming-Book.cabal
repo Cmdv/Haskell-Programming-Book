@@ -22,3 +22,6 @@ executable Haskell-Programming-Book
                      , hspec
                      , QuickCheck
                      , checkers
+                     , random
+                     , transformers
+                     , dlist
