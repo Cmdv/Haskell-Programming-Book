@@ -25,3 +25,10 @@ executable Haskell-Programming-Book
                      , random
                      , transformers
                      , dlist
+                     , trifecta
+                     , raw-strings-qq
+                     , bytestring
+                     , containers
+                     , text
+                     , aeson
+                     , scientific
